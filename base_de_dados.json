@@ -1,0 +1,54 @@
+{
+  "utentes" : {
+    "pulseira0" : {
+      "acompanhantes" : [ "Maria Abreu", "Zeca Firreira", "Marta Santos", "Sara Ferreira" ],
+      "cc" : 14648891,
+      "historico" : [ {
+        "prioridade" : "alta",
+        "sala" : "04",
+        "tempo_dem" : "00:15h"
+      }, {
+        "prioridade" : "media",
+        "sala" : "06",
+        "tempo_dem" : "00:20h"
+      }, {
+        "prioridade" : "baixa",
+        "sala" : "13",
+        "tempo_dem" : "01:25h"
+      }, {
+        "prioridade" : "alta",
+        "sala" : "09",
+        "tempo_dem" : "00:10h"
+      } ],
+      "nome" : "João António Sá Correia",
+      "prioridade" : [ "alta" ],
+      "proxima_sala" : [ "04", "1588863600" ],
+      "sala" : "11"
+    },
+    "pulseira1" : {
+      "acompanhantes" : [ "Clara Abreu", "José Figueira", "António Sá", "Joana Viegas", "João Pinto", "Pedro Sá", "Ângela Silva" ],
+      "cc" : 14647720,
+      "historico" : [ {
+        "prioridade" : "baixa",
+        "sala" : "02",
+        "tempo_dem" : "02:15h"
+      }, {
+        "prioridade" : "media",
+        "sala" : "12",
+        "tempo_dem" : "01:00h"
+      }, {
+        "prioridade" : "alta",
+        "sala" : "17",
+        "tempo_dem" : "00:15h"
+      }, {
+        "prioridade" : "baixa",
+        "sala" : "09",
+        "tempo_dem" : "00:58h"
+      } ],
+      "nome" : "Juan Aurélio Soares da Silva",
+      "prioridade" : [ "baixa" ],
+      "proxima_sala" : [ "12", "1588863600" ],
+      "sala" : "14"
+    }
+  }
+}
